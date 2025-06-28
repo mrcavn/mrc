@@ -1,0 +1,19 @@
+body {
+  background-color: #f8f9fa;
+background-image: url("background.jpg");
+background-repeat: no-repeat;
+
+  font-family: Arial, sans-serif;
+  padding: 64px;
+  color: #333;
+}
+
+h1 {
+  color: #ff6600;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  font-size: 1.1rem;
+}
